@@ -20,7 +20,7 @@ A simple RESTful API built with Node.js and TypeScript for managing Pokemon data
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MarcossVini/WebPokemon.git
 cd WebPokemon-1
 ```
 
